@@ -1,4 +1,0 @@
-TEAM1:
-- any:
-  - changed-files:
-    - any-glob-to-any-file: 'team_1/*'
